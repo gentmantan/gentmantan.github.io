@@ -1,6 +1,5 @@
 ---
 title: First Post Test
-tags: TeXt
 ---
 
 ![doog](/images/doog.jpg)
